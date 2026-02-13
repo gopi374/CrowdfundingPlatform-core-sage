@@ -1,7 +1,7 @@
 
 # 🤝 CrowdFund Smart Contract
 
-A decentralized crowdfunding smart contract that enables users to create campaigns, contribute ETH, and securely manage funds — all on the Core Blockchain. Built using Solidity and Hardhat.
+A decentralized crowdfunding smart contract that enables users to create campaign, contribute ETH, and securely manage funds — all on the Core Blockchain. Built using Solidity and Hardhat.
 
 ---
 
