@@ -41,7 +41,7 @@ async function main() {
   console.log("⛽ Gas Used:", receipt.gasUsed.toString());
   console.log("🧾 Transaction Hash:", receipt.hash);
 
- 
+
 
   console.log("🎉 Deployment successful!");
 }
