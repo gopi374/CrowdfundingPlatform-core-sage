@@ -41,10 +41,7 @@ async function main() {
   console.log("⛽ Gas Used:", receipt.gasUsed.toString());
   console.log("🧾 Transaction Hash:", receipt.hash);
 
-  // 📌 OPTIONAL: Call a contract function after deployment
-  // Example:
-  // const goal = await contract.goal();
-  // console.log("🎯 Campaign Goal:", hre.ethers.formatEther(goal), "ETH");
+
 
   console.log("🎉 Deployment successful!");
 }
